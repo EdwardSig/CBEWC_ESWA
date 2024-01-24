@@ -14,7 +14,5 @@ The code runs well under python 3.9.13. The required packages are as follows:
 
 The hyper parameters may be error specified. If you find any error please propose an issue.
 
-## Baseline
 
-If you want more baselines, please propose an issue.
 
